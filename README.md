@@ -1,7 +1,6 @@
 # Discord Bot
 
-A C# bot that allows users in a Discord text channel to send text messages to users, or search Leafly.com for
-current listings for sale in local stores.
+A C# bot that allows users in a Discord text channel to send text messages to users.
 
 # Text friends
 
